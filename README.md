@@ -1,3 +1,5 @@
-# Demo
+# git commands
 
-Descriprtion here......!!!!!!!!
+version check : git --version
+
+clonning repo : git clone {path}
